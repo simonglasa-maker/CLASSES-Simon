@@ -1,0 +1,14 @@
+/Users/simontitusglasa/RiderProjects/Cvicenie clasess 13 2 a - d/Cvicenie clasess 13 2 a - d/bin/Debug/net10.0/Cvicenie clasess 13 2 a - d
+/Users/simontitusglasa/RiderProjects/Cvicenie clasess 13 2 a - d/Cvicenie clasess 13 2 a - d/bin/Debug/net10.0/Cvicenie clasess 13 2 a - d.deps.json
+/Users/simontitusglasa/RiderProjects/Cvicenie clasess 13 2 a - d/Cvicenie clasess 13 2 a - d/bin/Debug/net10.0/Cvicenie clasess 13 2 a - d.runtimeconfig.json
+/Users/simontitusglasa/RiderProjects/Cvicenie clasess 13 2 a - d/Cvicenie clasess 13 2 a - d/bin/Debug/net10.0/Cvicenie clasess 13 2 a - d.dll
+/Users/simontitusglasa/RiderProjects/Cvicenie clasess 13 2 a - d/Cvicenie clasess 13 2 a - d/bin/Debug/net10.0/Cvicenie clasess 13 2 a - d.pdb
+/Users/simontitusglasa/RiderProjects/Cvicenie clasess 13 2 a - d/Cvicenie clasess 13 2 a - d/obj/Debug/net10.0/Cvicenie clasess 13 2 a - d.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simontitusglasa/RiderProjects/Cvicenie clasess 13 2 a - d/Cvicenie clasess 13 2 a - d/obj/Debug/net10.0/Cvicenie clasess 13 2 a - d.AssemblyInfoInputs.cache
+/Users/simontitusglasa/RiderProjects/Cvicenie clasess 13 2 a - d/Cvicenie clasess 13 2 a - d/obj/Debug/net10.0/Cvicenie clasess 13 2 a - d.AssemblyInfo.cs
+/Users/simontitusglasa/RiderProjects/Cvicenie clasess 13 2 a - d/Cvicenie clasess 13 2 a - d/obj/Debug/net10.0/Cvicenie clasess 13 2 a - d.csproj.CoreCompileInputs.cache
+/Users/simontitusglasa/RiderProjects/Cvicenie clasess 13 2 a - d/Cvicenie clasess 13 2 a - d/obj/Debug/net10.0/Cvicenie clasess 13 2 a - d.dll
+/Users/simontitusglasa/RiderProjects/Cvicenie clasess 13 2 a - d/Cvicenie clasess 13 2 a - d/obj/Debug/net10.0/refint/Cvicenie clasess 13 2 a - d.dll
+/Users/simontitusglasa/RiderProjects/Cvicenie clasess 13 2 a - d/Cvicenie clasess 13 2 a - d/obj/Debug/net10.0/Cvicenie clasess 13 2 a - d.pdb
+/Users/simontitusglasa/RiderProjects/Cvicenie clasess 13 2 a - d/Cvicenie clasess 13 2 a - d/obj/Debug/net10.0/Cvicenie clasess 13 2 a - d.genruntimeconfig.cache
+/Users/simontitusglasa/RiderProjects/Cvicenie clasess 13 2 a - d/Cvicenie clasess 13 2 a - d/obj/Debug/net10.0/ref/Cvicenie clasess 13 2 a - d.dll
